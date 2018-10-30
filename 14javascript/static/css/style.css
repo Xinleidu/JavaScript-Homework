@@ -1,0 +1,36 @@
+
+h1 {
+    color: red;
+    text-align: center;
+    text-shadow: 3px 2px red;
+    margin-top: 200px;
+    font-size: 10rem;
+    animation: title 1.2s forwards linear;
+}
+
+body {
+    background-color: White; 
+    color: red;
+}
+
+#table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: black;
+    color: yellow;
+}
+
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px black;
+    border-radius: 4px;
+    color:blue;
+    display:inline;
+}
+
+
